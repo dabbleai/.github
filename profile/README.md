@@ -52,3 +52,5 @@ P.S - Everything you've read so far took about 30 minutes to write. I'm not sure
 
 I'm going to stop here for now. I'll be back soon to share more about my dabble.ai journey. I'll also be sharing more about how I'm using Copilot and GitHub as my starting point. From there, I'm going to start working on a business model. I'll share more about that soon.
 
+Continue reading... [Day 2 - The business model](../DAY2.md)
+
