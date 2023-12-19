@@ -1,12 +1,13 @@
-# The dabble.ai project
+# Can AI create a profitable business that requires zero employees? 
 
-Hi, I’m Steve Tingiris, the human behind dabble.ai. In 2015 I founded [Dabble Lab](https://dabblelab.com). We help companies leverage AI to automate all the things that machines can do better or more cost-effectively than humans. It’s impossible to do what we do without considering the people whose jobs could be eliminated as a result. But fundamentally, I believe it's in the best interests of both the companies that hire us, and anyone doing work that is better suited for machines. 
+That’s exactly the question I’m trying to answer with The Dabble.AI Project.
 
-It's easy to understand why automation makes sense for companies. But what about the people who lose their jobs as a result? How can they benefit from AI automation? That's exactly the question I'm going to try and answer with dabble.ai. More specifically, I'm trying to answer the following question: 
+Hi, I’m Steve Tingiris, the founder of [Dabble Lab](https://dabblelab.com), and the author of one of the first books on GPT - [Exploring GPT-3](https://www.amazon.com/Exploring-GPT-3-unofficial-general-purpose-processing/dp/1800563191). Since working on that book, I’ve wondered how close we are to seeing fully autonomous businesses models emerge. AI has come a long way since 2020 and I think we're closer than ever. So close that I’m trying to create one - and I'll be sharing thoughts, lessons learned, strategies, tools used, and my profits and losses along the way. I'll be keeping my projects here on GitHub. But I'll be publishing my thoughts and updates on [https://dabble.ai](https://dabble.ai).  I'm also planning to publish AI generated videos at https://youtube.com/@dabbleai.
 
-## Can one person, using only AI, plan, build, launch, and scale a profitable business?
+Project Objectives:
 
-I'm not sure it's possible yet, or at least possible for me. But I'm going to try. And I'm going to document the entire process for anyone who might be interested in doing something similar. I'm going to share everything I learn along the way. I'll share my my successes along with the failures. I'll also share my methodology in as much detail as possible.
+1. Plan, build, launch, and scale a profitable business using only AI tools.
+2. Spend as little time and money as possible to achieve my first objective.
+3. Document the entire process and share it with the world.
 
-Continue reading... [Day 1 - The back story](https://github.com/dabbleai/dabbleai-project/blob/main/DAY1.md)
-
+Can it be done? If you're interested in finding out, subscribe at [dabble.ai](https://dabbleai.com) and [youtube.com/@dabbleai](https://youtube.com/@dabbleai) to follow my progress and learn what it takes.
