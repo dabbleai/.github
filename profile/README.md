@@ -2,7 +2,7 @@
 
 That’s exactly the question I’m trying to answer with The Dabble.AI Project.
 
-Hi, I’m Steve Tingiris, the founder of [Dabble Lab](https://dabblelab.com), and the author of one of the first books on GPT - [Exploring GPT-3](https://www.amazon.com/Exploring-GPT-3-unofficial-general-purpose-processing/dp/1800563191). Since working on that book, I’ve wondered how close we are to seeing fully autonomous businesses models emerge. AI has come a long way since 2020 and I think we're closer than ever. So close that I’m trying to create one - and I'll be sharing thoughts, lessons learned, strategies, tools used, and my profits and losses along the way. I'll be keeping my projects here on GitHub. But I'll be publishing my thoughts and updates on [https://dabble.ai](https://dabble.ai).  I'm also planning to publish AI generated videos at https://youtube.com/@dabbleai.
+Hi, I’m Steve Tingiris, the founder of [Dabble Lab](https://dabblelab.com), and the author of one of the first books on GPT - [Exploring GPT-3](https://www.amazon.com/Exploring-GPT-3-unofficial-general-purpose-processing/dp/1800563191). Since working on that book in 2020, I’ve wondered how close we are to seeing fully autonomous businesses models emerge. AI has come a long way over the past few years and now I think we're closer than ever. So close that I’m trying to create one - and I'll be sharing thoughts, lessons learned, strategies, tools used, and my profits and losses along the way. I'll be keeping my projects here on GitHub. But I'll be publishing my thoughts and updates on [https://dabble.ai](https://dabble.ai).  I'm also planning to publish AI generated videos at https://youtube.com/@dabbleai.
 
 Project Objectives:
 
