@@ -10,4 +10,4 @@ Project Objectives:
 2. Spend as little time and money as possible to achieve my first objective.
 3. Document the entire process and share it with the world.
 
-Can it be done? If you're interested in finding out, subscribe at [dabble.ai](https://dabbleai.com) and [youtube.com/@dabbleai](https://youtube.com/@dabbleai) to follow my progress and learn what it takes.
+Can it be done? If you're interested in finding out, subscribe at [dabble.ai](https://dabbleai.com) and [youtube.com/@dabbleai](https://youtube.com/@dabbleai) to follow my progress and learn what it takes. 🚀
